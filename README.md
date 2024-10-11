@@ -1,9 +1,26 @@
 ## Hello World!
 
-I'm Car 🖖, Sr. Technical Program Manager @ a startup working on Generative AI.
+I'm Car 🖖
 
-GTG.. more to come!
+**_In my work life_** I am: 
 
+- 🤖 Sr. Technical Program Manager
+- ⚒️ Working on Gen AI
+- 🛖 Currently in southern California (transplant from the Bay Area - *510 iykyk*)
+- 🔍 I'm looking for tech communities to join in (OC, LA) 
+
+**_Personal life_**:
+
+- ⌨️ Code
+- 🦉 Learn
+- 📖 Read
+- 🎧 Listen
+- 💭 Think
+- 🆔 Identify - Taiwanese American + LGBTQia
+
+🦄 **_Something fun_**:
+- *Obesessed* with [Chappel Roan](https://youtu.be/w4WiXKGCJhg?si=tQRy3E7JD2b8_VFL)
+- I miss playing [Typing of the Dead](https://en.wikipedia.org/wiki/The_Typing_of_the_Dead) 
 
 
 <!--
