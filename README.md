@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World!
+
+I'm Car 🖖, Sr. Technical Program Manager @ a startup working on Generative AI.
+
+GTG.. more to come!
+
+
 
 <!--
 **thecarsun/thecarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
