@@ -15,7 +15,6 @@ I'm Car 🖖
 - 📖 Read
 - 🎧 Listen
 - 💭 Think
-- 🆔 Identify - Taiwanese American + LGBTQia
 
 🦄 **_Something fun_**:
 - *Obesessed* with [Chappel Roan](https://youtu.be/w4WiXKGCJhg?si=tQRy3E7JD2b8_VFL)
