@@ -6,7 +6,6 @@ I'm Car 🖖
 
 - 🤖 Sr. Technical Program Manager
 - ⚒️ Working on Gen AI
-- 🛖 Currently in southern California (transplant from the Bay Area - *510 iykyk*)
 
 **_Personal life_**:
 
