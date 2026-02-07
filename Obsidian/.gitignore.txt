@@ -1,5 +1,5 @@
 # Ignore Obsidian system/config files
-**.obsidian/
+**/.obsidian/
 
 # Ignore temporary files
 *.log
