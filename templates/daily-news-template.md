@@ -1,6 +1,5 @@
 ﻿
 
----
 date: {{date}}
 type: daily-news
 source: {{source}}
