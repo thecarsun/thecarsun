@@ -16,7 +16,7 @@ In my personal Life:
   - Example project I've built: [daily-news-Obsidian](https://github.com/thecarsun/daily-news-obsidian)  
     - A simple pipeline that pulls the top 5 news articles from a news API and generates a Markdown file in my Obsidian vault
     - Runs hands-off via a scheduled GitHub Action workflow
-    - Why I built it: to stay informed without getting lost in the noise, distractions, clickbaits, and ads (*sory*)
+    - Why I built it: to stay informed without getting lost in the noise, distractions, clickbaits, and ads (*sorry*)
 
 **Learn**  
   - Nerd here, exploring courses on Coursera and Deeplearning.ai pretty often
