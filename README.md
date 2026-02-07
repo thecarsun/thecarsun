@@ -10,6 +10,7 @@ In my professional work life:
 	- **AI/NLP/ML/LLM & Gen AI**: POCs, product development, MLOps/LLMOps, Responsible AI + more..
 
 In my personal Life:
+
 **Code**  
   - Python enthusiast — I enjoy exploring ideas and building small projects in my free time
   - Example project I've built: [daily-news-Obsidian](https://github.com/thecarsun/daily-news-obsidian)  
