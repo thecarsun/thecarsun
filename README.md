@@ -3,7 +3,7 @@
 **I'm Car** 👋
 
 In my professional work life: 
-- I work as a Sr. Technical Program Manager, *currently on a break and looking for my next adventure and team*
+- I work as a Sr. Technical Program Manager, *currently on a break*
 - Some of the areas I've been involved with in the past: 
 	- **Consumer Mobile Apps**: feature development, launches, SDLC, CI/CD, and growth initiatives + more..
 	- **Consumer HW**: product development, integration, delivery + more..
