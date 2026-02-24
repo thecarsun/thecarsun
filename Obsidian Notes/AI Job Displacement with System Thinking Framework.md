@@ -113,7 +113,7 @@ Think: Why did most systems fail in the past?*
 
 **LEVERAGE POINTS**
 
-*Leverage points rank from weakest to the most powerful - based on [**Donella Meadows**](https://systemsthinkingalliance.org/donella-meadows-pioneering-contributions-to-systems-thinking-and-environmental-advocacy/)'s work*
+*Leverage points rank from weakest to the most powerful - based on [**Donella Meadows**](https://systemsthinkingalliance.org/donella-meadows-pioneering-contributions-to-systems-thinking-and-environmental-advocacy/) work*
 
 **WEAK**: 
 - Adjust parameters such as more budget, more headcount, or cut the work force to budget needs
