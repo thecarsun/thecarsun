@@ -39,41 +39,41 @@ System Thinking Framework is a method to help understand complex problems by loo
 
 *Systems are made of things that accumulate (**Stocks**) and rates of change (**Flows**)*.
 
-	**STOCKS**: *things that accumulate (talent pool, technical debt, public trust)*
-		- Talent pool (skilled workers available)
-		- Public trust in AI systems
-		- Technical debt in legacy systems
-		- Institutional knowledge (what walks out the door when people leave)
-		- Reskilling capacity (educators, programs, infrastructure)
-		- Political policies for intervention
+**STOCKS**: *things that accumulate (talent pool, technical debt, public trust)*
+	- Talent pool (skilled workers available)
+	- Public trust in AI systems
+	- Technical debt in legacy systems
+	- Institutional knowledge (what walks out the door when people leave)
+	- Reskilling capacity (educators, programs, infrastructure)
+	- Political policies for intervention
 
-	**FLOWS**: *rates of change (hiring rate, layoffs, reskilling speed)*
-		- Hiring rate / layoff rate (low hire/low fire)
-		- Reskilling speed
-		- Rate of AI adoption by industry
-		- Rate of new job category creation
-		- Policy response rate
+**FLOWS**: *rates of change (hiring rate, layoffs, reskilling speed)*
+	- Hiring rate / layoff rate (low hire/low fire)
+	- Reskilling speed
+	- Rate of AI adoption by industry
+	- Rate of new job category creation
+	- Policy response rate
 
-	*Questions to think about:*
-		- What builds up slowly but impacts massively?
-		- What drains faster than it can be replenished?
-		- What has an invisible ceiling?
+*Questions to think about:*
+	- What builds up slowly but impacts massively?
+	- What drains faster than it can be replenished?
+	- What has an invisible ceiling?
 
 **RELATIONSHIP MAPPING** (Casual Loops)
 
 *In the context of System Thinking Framework: 
 Casual Loops sometimes =  the same force that causes a problem to begin with often feeds back and makes the problem worse or eventually corrects itself (resolved/corrected).
 
-	**REINFORCING LOOPS (R)** - *amplify change, create momentum*
+**REINFORCING LOOPS (R)** - *amplify change, create momentum*
 
-		**R1: The AI Spiral** AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
-	*This loop creates the economy -->  Companies that don't automate/integrate AI  get outcompeted by ones that do.*
+**R1: The AI Spiral** AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
+*This loop creates the economy -->  Companies that don't automate/integrate AI  get outcompeted by ones that do.*
 
-		**R2: The Talent Concentration Loop** AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
-	*The K economy in human capital. 
+**R2: The Talent Concentration Loop** AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
+*The K economy in human capital. 
 
-		**R3: The Reskilling Demand Loop** Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
-	*This is positive, however only if policies are in place and buy-ins are achieved. It won't start without deliberate intervention. Policies and enforcements also can take decades*
+**R3: The Reskilling Demand Loop** Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
+*This is positive, however only if policies are in place and buy-ins are achieved. It won't start without deliberate intervention. Policies and enforcements also can take decades*
 
 **BALANCING LOOPS (B)** - *resist change, create stability or corrections*
 
@@ -92,8 +92,8 @@ Casual Loops sometimes =  the same force that causes a problem to begin with oft
 **DELAYS**
 *Delays create instability and is the dangerous part of the complex systems. When there are lags between cause and effect it leads to over or under correction behaviors. 
 
-|**Domain**|**Delay**|
-| :--- | :--- | :--- |
+| **Domain** | **Delay** |
+| :--- | :--- |
 |Individual reskilling |1–3 years |
 |Education system reform |5–10 years |
 |Cultural shifts ("what jobs are valued") |One generation |
