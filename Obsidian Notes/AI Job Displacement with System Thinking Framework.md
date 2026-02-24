@@ -1,19 +1,20 @@
-#systemthinking 
+#systemsthinking 
+
 `STATUS:` draft     
 
 ---
 
-Most people frame a linear story about AI and Job displacement as:  *AI arrives --> jobs disappear  --> people suffer. Reality and business within a society is a system. A system full of loops, delays, feedback, and unintended consequences. Systems Thinking Framework helps to see topics or problem statements as a whole, not just headlines and echoes of headlines.
+The common story about AI and job displacement is linear: *AI arrives --> jobs disappear  --> people suffer. Reality, business, and economics are not linear. They are dynamic systems of feedback loops, delays, incentives and unintended consequences. Systems Thinking Framework helps to see topics or problem statements as a whole, not just headlines and echoes of headlines.
 
 > ***The real risk isn't our job title. It's how we practice the role***
 
 **Context**
 
-System Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact overtime (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: _what feedback loops are created? What delays exist? Where can we actually do, actions to take?
+Systems Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact overtime (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: what feedback loops are created? What delays exist? Where can we actually do, actions to take?
 
 **PROBLEM STATEMENT** : AI displacing jobs/AI taking over people's jobs 
 
-**SYSTEM BOUNDRY** 
+**SYSTEM BOUNDARY** 
 
 - What problem are we actually solving?
 	Definitely not by blowing up Skynet like how it was done in the Terminator Franchise.  Instead think along the lines of: *how does societies and individuals adapt and work with AI and its many use cases and tools?*
@@ -22,7 +23,8 @@ System Thinking Framework is a method to help understand complex problems by loo
 
     **Starts**: Business and economic shifts to automate to reduce cost, speed, and scale
 
-	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI
+	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI		
+	*System Goal Questions: What are we optimizing for in this system today? Shareholder return, GDP growth? What is it? Keep in mind, the system behaves according to its goal. If the goal is straight up cost efficiecy then displacement in this context is not a bug - it is a feature of that. 
 
 - What is inside vs. outside of our control?
 	
@@ -59,21 +61,22 @@ System Thinking Framework is a method to help understand complex problems by loo
 	- What drains faster than it can be replenished?
 	- What has an invisible ceiling?
 
-**RELATIONSHIP MAPPING** (Casual Loops)
+**RELATIONSHIP MAPPING** (Causal Loops)
 
-*In the context of System Thinking Framework: 
-Casual Loops sometimes =  the same force that causes a problem to begin with often feeds back and makes the problem worse or eventually corrects itself (resolved/corrected).
+*In the context of Systems Thinking Framework: 
+Causal Loops sometimes =  the same force that causes a problem to begin with often feeds back and makes the problem worse or eventually corrects itself (resolved/corrected).
 
 **REINFORCING LOOPS (R)** - *amplify change, create momentum*
 
 **R1: The AI Spiral** AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
-*This loop creates the economy -->  Companies that don't automate/integrate AI  get outcompeted by ones that do.*
+
+*This loop creates the economy --> Companies that don't automate/integrate AI  get outcompeted by ones that do. Thinking about in history, similar patterns took place with cloud migration waves, electrification, and mechanization, and more..
 
 **R2: The Talent Concentration Loop** AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
 *The K economy in human capital. 
 
-**R3: The Reskilling Demand Loop** Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
-*This is positive, however only if policies are in place and buy-ins are achieved. It won't start without deliberate intervention. Policies and enforcements also can take decades*
+**R3: The Potential Reskilling Demand Loop** (This is conditional) Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
+*This is positive, however only if policies are in place, buy-ins are achieved, and investments are in place. It won't start without deliberate intervention. Policies and enforcements also can take decades*
 
 **BALANCING LOOPS (B)** - *resist change, create stability or corrections*
 
@@ -101,8 +104,9 @@ Casual Loops sometimes =  the same force that causes a problem to begin with oft
 |Policy responses |Election cycles (2–6 years) |
 |AI capability development |in acceleration mode now/on going |
 
-*AI is accelerating , institutional systems and human adaptions does not match the speed of AI.
-Think: Why did most systems fail in the past? *
+*AI is accelerating, institutional systems and human adaptions does not match the speed of AI.
+*AI capability cycles operate in months. Education reform cycles operate in decades.*
+Think: Why did most systems fail in the past?*
 
 **LEVERAGE POINTS**
 *Leverage points rank from weakest to the most powerful - based on [Donella Meadow](https://systemsthinkingalliance.org/donella-meadows-pioneering-contributions-to-systems-thinking-and-environmental-advocacy/)'s work*
@@ -121,8 +125,8 @@ Think: Why did most systems fail in the past? *
 
 **POWERFUL**
 	- Change the paradigm: the mental model people operate from 
-*Current dominant mental model: AI is displacing humans and jobs.
-Reframe: Human create value and AI add value. 
+*Current dominant mental model - paradigm: AI is displacing humans and jobs/Humans compete with AI for jobs
+Reframe - alternate paradigm: Human create value and AI add value/Humans design systems that includes AI to create value together
 Think: What should humans spend their time on that machines can't do?
 
 **WHAT AI IS AND ISN'T GOOD AT**
@@ -132,7 +136,7 @@ Think: What should humans spend their time on that machines can't do?
 	- Recognize patterns in large datasets
 	- Very well defined and structured tasks 
 	- High volume and repeatable processes
-	- Optimize within clear parameter
+	- Optimize within clear parameters
 
 **AI is bad at**:
 	- Political ambiguity and competing incentives
@@ -146,8 +150,8 @@ Think: What should humans spend their time on that machines can't do?
 *Back to the overarching theme*
 > ***The real risk is not our job title, it is how we practice the role***
 
-The TPM that chases people, pushes the ticket, is at high risk. 
-The TPM that navigates the teams disconnect and can orchestrate the different teams and AI to get to the finish line is at lower risk. Same title, but different execution. 
+The TPM that functions in heavy coordination is at high risk. 
+The TPM that is systems oriented (navigates the teams disconnect/gaps, anticipates constraints, and can orchestrate the different teams and integrates AI into that workflow is at lower risk. Same title, but different execution. 
 
 The role that repeats their tasks is at high risk.
 The role that can synthesize incomplete information, manages relationships, anticipates, actively design and manage the flow of their own role and its impacts is at low risk. 
@@ -155,7 +159,7 @@ The role that can synthesize incomplete information, manages relationships, anti
 The pattern: High-risk roles operate inside of the AI's zone of competence. 
 Low risk roles operate outside of it. 
 
-The Systems Thinking insight: The risk isn't' the stock (job), it's the flow (how work is practiced and evolved/will be evolving over time). 
+The Systems Thinking insight: The risk isn't the stock (job), it's the flow (how work is practiced and evolved/will be evolving over time). 
 
 --- 
 *If you like this read and want to see more, please let me know! Feel free to reach out with any feedback/questions/suggestions. Thank you*
