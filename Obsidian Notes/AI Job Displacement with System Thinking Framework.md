@@ -5,7 +5,7 @@
 
 Most people frame a linear story about AI and Job displacement as:  *AI arrives --> jobs disappear  --> people suffer. Reality and business within a society is a system. A system full of loops, delays, feedback, and unintended consequences. Systems Thinking Framework helps to see topics or problem statements as a whole, not just headlines and echoes of headlines.
 
-> ***The real risk isn't our job title. It's how we practice the role.
+> ***The real risk isn't our job title. It's how we practice the role***
 
 **Context**
 System Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact overtime (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: _what feedback loops are created? What delays exist? Where can we actually do, actions to take?
@@ -23,7 +23,8 @@ System Thinking Framework is a method to help understand complex problems by loo
 
 - What is inside vs. outside of our control?
 	
-	|**Inside Control**  |**Outside Control** | 
+	|  **Inside Control**  |  **Outside Control** | 
+	| :--- | :--- |
 	|:Reskilling Investment |:Pace of model capability improvements |
 	|:How we design human-AI workflows |:Macroeconomic cycles |
 	|:Hiring criteria and role definitions |:Geopolitical competition driving automation |
@@ -88,7 +89,8 @@ Casual Loops sometimes =  the same force that causes a problem to begin with oft
 **DELAYS**
 *Delays create instability and is the dangerous part of the complex systems. When there are lags between cause and effect it leads to over or under correction behaviors. 
 
-|**Domain**|**Delay**| 
+|**Domain**|**Delay**|
+| :--- | :--- | :--- |
 |:Individual reskilling |:1–3 years |
 |:Education system reform |:5–10 years |
 |:Cultural shifts ("what jobs are valued") |:One generation |
