@@ -10,7 +10,7 @@ The common story about AI and job displacement is linear: AI arrives --> jobs di
 
 **Context**
 
-Systems Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact overtime (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: what feedback loops are created? What delays exist? What can we actually do, actions to take?
+Systems Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact over time (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: what feedback loops are created? What delays exist? What can we actually do, actions to take?
 
 **PROBLEM STATEMENT** : AI displacing jobs/AI taking over people's jobs 
 
@@ -23,8 +23,8 @@ Systems Thinking Framework is a method to help understand complex problems by lo
 
     **Starts**: Business and economic shifts to automate to reduce cost, speed, and scale
 
-	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI		
-	*System Goal Question*: What are we optimizing for in this system today? Shareholder return, GDP growth? What is it? The system behaves according to its goal. If the goal is straight up cost efficiecy then *displacement* in this context is not a bug - it is a feature. 
+	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI adoption		
+	*System Goal Question*: What are we optimizing for in this system today? Shareholder return, GDP growth? What is it? The system behaves according to its goal. If the goal is straight up cost efficiency then *displacement* in this context is not a bug - it is a feature. 
 
 - What is inside vs. outside of our control?
 	
@@ -107,13 +107,13 @@ Causal Loops sometimes = the same force that causes a problem to begin with ofte
 |Policy responses |Election cycles (2–6 years) |
 |AI capability development |in acceleration mode now/on going |
 
-*AI is accelerating, institutional systems and human adaptions does not match the speed of AI.
+*AI is accelerating, institutional systems and human adaptations do not match the speed of AI.
 *AI capability cycles operate in months. Education reform cycles operate in decades.*
 Think: Why did most systems fail in the past?*
 
 **LEVERAGE POINTS**
 
-*Leverage points rank from weakest to the most powerful - based on [Donella Meadow](https://systemsthinkingalliance.org/donella-meadows-pioneering-contributions-to-systems-thinking-and-environmental-advocacy/)'s work*
+*Leverage points rank from weakest to the most powerful - based on [**Donella Meadows**](https://systemsthinkingalliance.org/donella-meadows-pioneering-contributions-to-systems-thinking-and-environmental-advocacy/)'s work*
 
 **WEAK**: 
 - Adjust parameters such as more budget, more headcount, or cut the work force to budget needs
@@ -129,8 +129,8 @@ Think: Why did most systems fail in the past?*
 
 **POWERFUL**
 - Change the paradigm: the mental model people operate from 
-*Current dominant mental model** - Paradigm: AI is displacing humans and jobs/Humans compete with AI for jobs
-*Reframe* - alternate Paradigm: Human create value and AI add value/Humans design systems that includes AI to create value together
+*Current dominant mental model** - Paradigm: AI is displacing jobs
+*Reframe* - alternate Paradigm: Humans design systems that includes AI to create value
 *Think: What should humans spend their time on that AI + machines can't?*
 
 **WHAT AI IS AND ISN'T GOOD AT**
@@ -159,12 +159,16 @@ The TPM that functions in heavy coordination is at high risk.
 The TPM that is systems oriented (navigates the teams disconnect/gaps, anticipates constraints, and can orchestrate the different teams and integrates AI into that workflow is at lower risk. Same title, but different execution. 
 
 The role that repeats their tasks is at high risk.
-The role that can synthesize incomplete information, manages relationships, anticipates, actively design and manage the flow of their own role and its impacts is at low risk. 
+The role that can synthesize incomplete information, manages relationships, anticipates, actively design and manage the flow of their work and its impacts is at low risk. 
 
 The pattern: High-risk roles operate inside of the AI's zone of competence. 
 Low risk roles operate outside of it. 
 
-The Systems Thinking insight: The risk isn't the stock (job), it's the flow (how work is practiced and evolved/will be evolving over time). 
+The AI displacement debate often assumes a single inevitable outcome.
+Systems thinking suggests something different:
+Outcomes depend on which loops are strengthened,
+which delays are shortened,
+and which goals are prioritized.
 
 --- 
 *If you like this read and want to see more, please let me know! Feel free to reach out with any feedback/questions/suggestions. Thank you*
