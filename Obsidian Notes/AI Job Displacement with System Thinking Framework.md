@@ -8,17 +8,20 @@ Most people frame a linear story about AI and Job displacement as:  *AI arrives 
 > ***The real risk isn't our job title. It's how we practice the role***
 
 **Context**
+
 System Thinking Framework is a method to help understand complex problems by looking at the whole system and how those parts interact overtime (Not just isolated parts such as "AI layoff/take over/become  homeless"). Systems thinking asks us to think about: _what feedback loops are created? What delays exist? Where can we actually do, actions to take?
 
-**PROBLEM STATEMENT** : 
-**Surface:** AI displacing jobs/AI taking over people's jobs 
+**PROBLEM STATEMENT** : AI displacing jobs/AI taking over people's jobs 
 
 **SYSTEM BOUNDRY** 
+
 - What problem are we actually solving?
 	Definitely not by blowing up Skynet like how it was done in the Terminator Franchise.  Instead think along the lines of: *how does societies and individuals adapt and work with AI and its many use cases and tools?*
 
 - Where does this system start and end?
+
     **Starts**: Business and economic shifts to automate to reduce cost, speed, and scale
+
 	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI
 
 - What is inside vs. outside of our control?
@@ -31,46 +34,46 @@ System Thinking Framework is a method to help understand complex problems by loo
 	|Education system reform |Rate of AI cost decline |
 	|Regulatory frameworks |Global labor arbitrage |
 
+
 **KEY COMPONENTS** 
+
 *Systems are made of things that accumulate (**Stocks**) and rates of change (**Flows**)*.
 
-**STOCKS**: *things that accumulate (talent pool, technical debt, public trust)*
-	- Talent pool (skilled workers available)
-	- Public trust in AI systems
-	- Technical debt in legacy systems
-	- Institutional knowledge (what walks out the door when people leave)
-	- Reskilling capacity (educators, programs, infrastructure)
-	- Political policies for intervention
+	**STOCKS**: *things that accumulate (talent pool, technical debt, public trust)*
+		- Talent pool (skilled workers available)
+		- Public trust in AI systems
+		- Technical debt in legacy systems
+		- Institutional knowledge (what walks out the door when people leave)
+		- Reskilling capacity (educators, programs, infrastructure)
+		- Political policies for intervention
 
-**FLOWS**: *rates of change (hiring rate, layoffs, reskilling speed)*
-	- Hiring rate / layoff rate (low hire/low fire)
-	- Reskilling speed
-	- Rate of AI adoption by industry
-	- Rate of new job category creation
-	- Policy response rate
+	**FLOWS**: *rates of change (hiring rate, layoffs, reskilling speed)*
+		- Hiring rate / layoff rate (low hire/low fire)
+		- Reskilling speed
+		- Rate of AI adoption by industry
+		- Rate of new job category creation
+		- Policy response rate
 
-*Questions to think about:*
-	- What builds up slowly but impacts massively?
-	- What drains faster than it can be replenished?
-	- What has an invisible ceiling?
+	*Questions to think about:*
+		- What builds up slowly but impacts massively?
+		- What drains faster than it can be replenished?
+		- What has an invisible ceiling?
 
 **RELATIONSHIP MAPPING** (Casual Loops)
+
 *In the context of System Thinking Framework: 
 Casual Loops sometimes =  the same force that causes a problem to begin with often feeds back and makes the problem worse or eventually corrects itself (resolved/corrected).
 
-**REINFORCING LOOPS (R)** - *amplify change, create momentum*
+	**REINFORCING LOOPS (R)** - *amplify change, create momentum*
 
-**R1: The AI Spiral** 
-	AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
-*This loop creates the economy -->  Companies that don't automate/integrate AI  get outcompeted by ones that do.*
+		**R1: The AI Spiral** AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
+	*This loop creates the economy -->  Companies that don't automate/integrate AI  get outcompeted by ones that do.*
 
-**R2: The Talent Concentration Loop**
-	AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
-*The K economy in human capital. 
+		**R2: The Talent Concentration Loop** AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
+	*The K economy in human capital. 
 
-**R3: The Reskilling Demand Loop**
-	Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
-*This is positive, however only if policies are in place and buy-ins are achieved. It won't start without deliberate intervention. Policies and enforcements also can take decades*
+		**R3: The Reskilling Demand Loop** Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
+	*This is positive, however only if policies are in place and buy-ins are achieved. It won't start without deliberate intervention. Policies and enforcements also can take decades*
 
 **BALANCING LOOPS (B)** - *resist change, create stability or corrections*
 
