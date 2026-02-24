@@ -22,12 +22,13 @@ System Thinking Framework is a method to help understand complex problems by loo
 	**Ends**: Dysfunctions of labor market equilibrium after widespread of AI
 
 - What is inside vs. outside of our control?
-	| **Inside Control**  |  **Outside Control** | 
-	| :Reskilling Investment | :Pace of model capability improvements |
-	| : How we design human-AI workflows | :Macroeconomic cycles |
-	| :Hiring criteria and role definitions | :Geopolitical competition driving automation |
-	| :Education system reform | :Rate of AI cost decline |
-	| :Regulatory frameworks | :Global labor arbitrage |
+	
+	|**Inside Control**  |**Outside Control** | 
+	|:Reskilling Investment |:Pace of model capability improvements |
+	|:How we design human-AI workflows |:Macroeconomic cycles |
+	|:Hiring criteria and role definitions |:Geopolitical competition driving automation |
+	|:Education system reform |:Rate of AI cost decline |
+	|:Regulatory frameworks |:Global labor arbitrage |
 
 **KEY COMPONENTS** 
 *Systems are made of things that accumulate (**Stocks**) and rates of change (**Flows**)*.
@@ -87,13 +88,13 @@ Casual Loops sometimes =  the same force that causes a problem to begin with oft
 **DELAYS**
 *Delays create instability and is the dangerous part of the complex systems. When there are lags between cause and effect it leads to over or under correction behaviors. 
 
-| **Domain** |  **Delay** | 
-| : Individual reskilling | : 1–3 years |
-| : Education system reform | : 5–10 years |
-| : Cultural shifts ("what jobs are valued") | : One generation |
-| : Infrastructure upgrades | : Quarters |
-| : Policy responses | : Election cycles (2–6 years) |
-| : AI capability development | : in acceleration mode now/on going |
+|**Domain**|**Delay**| 
+|:Individual reskilling |:1–3 years |
+|:Education system reform |:5–10 years |
+|:Cultural shifts ("what jobs are valued") |:One generation |
+|:Infrastructure upgrades |:Quarters |
+|:Policy responses |:Election cycles (2–6 years) |
+|:AI capability development |:in acceleration mode now/on going |
 
 *AI is accelerating , institutional systems and human adaptions does not match the speed of AI.
 Think: Why did most systems fail in the past? *
