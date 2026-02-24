@@ -69,24 +69,30 @@ Causal Loops sometimes = the same force that causes a problem to begin with ofte
 **REINFORCING LOOPS (R)** - *amplify change, create momentum*
 
 **R1: The AI Spiral** AI integration at companies --> cost savings --> more investment in AI --> more automation --> more displacement --> more pressure to cut costs --> more AI investment
-	*This loop creates the economy --> Companies that don't automate/integrate AI  get outcompeted by ones that do. Thinking about in history, similar patterns took place with cloud migration waves, electrification, and mechanization, and more..*
+
+*This loop creates the economy --> Companies that don't automate/integrate AI  get outcompeted by ones that do. Thinking about in history, similar patterns took place with cloud migration waves, electrification, and mechanization, and more..*
 
 **R2: The Talent Concentration Loop** AI tools increase the leverage of top performers --> organizations concentrate hiring at the top --> mid-tier talent loses opportunities --> skill gaps widen --> fewer people can participate in the AI economy
-	*The K economy in human capital.*
+
+*The K economy in human capital.*
 
 **R3: The Potential Reskilling Demand Loop** (This is conditional) Displacements --> demand for reskilling programs --> investment in training --> more capable workforce --> higher adaptability --> better outcomes
-	*This is positive, however only if policies are in place, buy-ins are achieved, and investments are in place. It won't start without deliberate intervention. Policies and enforcements also can take decades*
+
+*This is positive, however only if policies are in place, buy-ins are achieved, and investments are in place. It won't start without deliberate intervention. Policies and enforcements also can take decades*
 
 **BALANCING LOOPS (B)** - *resist change, create stability or corrections*
 
 **B1: Political Pressure** Job displacement --> public anger/social unrest --> political pressure --> regulation --> slower AI adoption
-	*The question is whether it arrives before or after the damage is done. Most policy responses lag by years.**
+
+*The question is whether it arrives before or after the damage is done. Most policy responses lag by years.**
 
 **B2: Wage Correction** Labor surplus in displaced roles --> wages fall --> some automation becomes less economically attractive --> adoption slows in those niches
-	*Markets correct, but slow and uneven. Significant human cost throughout the correction period.*
+
+*Markets correct, but slow and uneven. Significant human cost throughout the correction period.*
 
 **B3: New Job Creation** AI tools --> new areas/needs --> new roles emerge --> labor absorbs into new areas
-	*Historically, this happened with electrification and the internet.  The question is: how long will the in-between?*
+
+*Historically, this happened with electrification and the internet.  The question is: how long will the in-between?*
 
 **DELAYS**
 
