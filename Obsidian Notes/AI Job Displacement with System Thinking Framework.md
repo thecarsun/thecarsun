@@ -17,9 +17,7 @@ Systems Thinking Framework is a method to help understand complex problems by lo
 **SYSTEM BOUNDARY** 
 
 - What problem are we actually solving?
-
-- Definitely not by blowing up Skynet like how it was done in the Terminator Franchise.  
-Instead think along the lines of: *how does societies and individuals adapt and work with AI and its many use cases and tools?*
+	- *Definitely not by blowing up Skynet like how it was done in the Terminator Franchise.* Instead think along the lines of: *how does societies and individuals adapt and work with AI and its many use cases and tools?*
 
 - Where does this system start and end?
 
