@@ -35,7 +35,7 @@ In my personal life:
 	- In 2025, I thought my #1 would update to Chappell Roan but for whatever reason, Taylor is still #1 
 
 **Think**  
-  - Exploring various topics in frameworks in System Thinking and Critical Thinking
+  - Exploring various topics in frameworks in System Thinking and Critical Thinking. Here are some [Systems Thinking](https://github.com/thecarsun/Systems-Thinking/tree/main/Analyses) anylyses on various AI topics.
 
 Something fun:
 - Star Trek TOS fan
