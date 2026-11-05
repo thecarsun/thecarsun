@@ -6,7 +6,7 @@ I am also an independent builder, and curious human exploring technology, intell
 and complex systems.
 
 Outside of work, I enjoy turning questions and ideas into working applications.
-I build and experiment through [determinant Labs](https://www.dxlabs.io), an independent research 
+I build and experiment through [Determinant Labs](https://www.dxlabs.io), an independent research 
 and technology studio exploring human and artificial intelligence, complex systems, and their 
 real-world applications.
 
